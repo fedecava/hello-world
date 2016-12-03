@@ -1,2 +1,2 @@
 # hello-world
-My first test rest repository
+My first test repository
